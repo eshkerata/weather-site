@@ -60,7 +60,6 @@ def weather():
                 <div class="weather-item">
                     <img src="https://img.icons8.com/?size=100&id=q08BODJHMGe1&format=png&color=000000" alt="Thermometer"/>
                     <span>{temperature}°</span>
-                    <span>12:00</span>
                 </div>
                 <div class="weather-item">
                     <img src="https://img.icons8.com/?size=100&id=5ZAexOoJNxiy&format=png&color=000000" alt="Wind">
